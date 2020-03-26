@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Scrabble
+comment0.text=\n\ Crear\ una\ clase\ que\ permita\ que\ el\ usuario\ dibuje\ lineas\ on\ el\ raton\n\ Devuelve\ coordenadas\ en\ X\ e\ Y\ donde\ el\ usuario\ solto\ el\ raton\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ createInterfaz()
+comment3.params=event
+comment3.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment4.params=event
+comment4.target=void\ mouseMoved(java.awt.event.MouseEvent)
+numComments=5
